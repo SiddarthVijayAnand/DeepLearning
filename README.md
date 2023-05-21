@@ -1,2 +1,2 @@
-# tensorflow
-my tensor flow learning journey
+# My Deep Learning Repo
+It has everything from Nueral Networks, CNNs, TensorFlow, Keras, PyTorch
